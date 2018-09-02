@@ -1,7 +1,7 @@
 # Author: Kartik Sah
 # Year: 2018
 # Topic: Decorators
-
+#  Decorators are a way to dynamically alter the functionality of your functions.
 
 def decorator_func(use_func):
     import logging
